@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\Daily Log\bin\Release\netcoreapp3.0\Daily Log.exe
+C:\Users\Alex\source\repos\Daily Log\bin\Release\netcoreapp3.0\Daily Log.deps.json
+C:\Users\Alex\source\repos\Daily Log\bin\Release\netcoreapp3.0\Daily Log.runtimeconfig.json
+C:\Users\Alex\source\repos\Daily Log\bin\Release\netcoreapp3.0\Daily Log.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Daily Log\bin\Release\netcoreapp3.0\Daily Log.dll
+C:\Users\Alex\source\repos\Daily Log\bin\Release\netcoreapp3.0\Daily Log.pdb
+C:\Users\Alex\source\repos\Daily Log\obj\Release\netcoreapp3.0\Daily Log.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Daily Log\obj\Release\netcoreapp3.0\Daily Log.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Daily Log\obj\Release\netcoreapp3.0\Daily Log.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Daily Log\obj\Release\netcoreapp3.0\Daily Log.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Daily Log\obj\Release\netcoreapp3.0\Daily Log.dll
+C:\Users\Alex\source\repos\Daily Log\obj\Release\netcoreapp3.0\Daily Log.pdb
